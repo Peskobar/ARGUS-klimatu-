@@ -1,0 +1,6 @@
+{
+  "name": "Asystent Ogrodniczy i Growbox",
+  "description": "Inteligentny asystent pielęgnacji i rozpoznawania roślin z panelem monitorowania klimatu w namiocie Diamond Box (Prima Klima, Lumii x LED).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
